@@ -1,4 +1,4 @@
 # TianMaoWeb
 天猫前端仿站
-*  [置顶导航](https://github.com/shenzekun/TianMaoWeb/blob/master/header_nav.html)
+*  [置顶导航](https://shenzekun.github.io/TianMaoWeb/header_nav.html)
 
