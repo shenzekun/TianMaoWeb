@@ -57,7 +57,7 @@ img#logo{
     margin: 1px auto;
     width: 240px;
     height: 130px;
-    left: 0;
+    left: -10px;
     z-index: -1;
     margin-top:-35px;
 }
