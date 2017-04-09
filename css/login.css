@@ -2,12 +2,13 @@ div.simpleLogo {
     padding: 30px 0px;
     margin-left: 40px;
 }
-
 img.loginBackgroundImg {
     margin: 0px auto;
     width: 100%;
 }
-
+div#loginDiv{
+    margin-bottom: 10px;
+}
 div.loginSmallDiv {
     background-color: white;
     position: absolute;
