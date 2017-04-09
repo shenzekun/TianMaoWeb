@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>首页轮播</title>
+    <script src="js/jquery/2.0.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/bootstrap/3.3.6/bootstrap.min.css">
+    <script src="js/bootstrap/3.3.6/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/content_carousel.css">
+</head>
+
+<body>
+    <div class="categoryWithCarousel">
+        <!--导航条-->
+        <div class="headbar">
+            <div class="head">
+                <span class="glyphicon glyphicon-th-list" style="margin-left:10px;"></span>
+                <span style="margin-left:10px">商品分类</span>
+            </div>
+
+            <div class="rightMenu">
+                <span><a href="#"><img src="images/site/chaoshi.png" alt=""></a></span>
+                <span><a href="#"><img src="images/site/guoji.png" alt=""></a></span>
+                <span><a href="#">平板电视</a></span>
+                <span><a href="#">电热水器</a></span>
+            </div>
+        </div>
+
+
+        <!--轮播-->
+        <div data-ride="carousel" class="carousel-of-product carousel slide" id="carousel-of-product">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li class="active" data-slide-to="0" data-target="#carousel-of-product"></li>
+                <li data-slide-to="1" data-target="#carousel-of-product" class=""></li>
+                <li data-slide-to="2" data-target="#carousel-of-product" class=""></li>
+                <li data-slide-to="3" data-target="#carousel-of-product" class=""></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div role="listbox" class="carousel-inner">
+                <div class="item active">
+                    <a href="#"><img src="images/lunbo/1.jpg" class="carousel carouselImage"></a>
+                </div>
+                <div class="item">
+                    <a href="#"><img src="images/lunbo/2.jpg" class="carouselImage"></a>
+                </div>
+                <div class="item">
+                    <a href="#"><img src="images/lunbo/3.jpg" class="carouselImage"></a>
+                </div>
+                <div class="item">
+                    <a href="#"><img src="images/lunbo/4.jpg" class="carouselImage"></a>
+                </div>
+            </div>
+        </div>
+        <div class="carouselBackgroundDiv"></div>
+    </div>
+</body>
+
+</html>

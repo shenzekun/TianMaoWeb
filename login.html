@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>登录界面</title>
+    <script src="js/jquery/2.0.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/bootstrap/3.3.6/bootstrap.min.css">
+    <script src="js/bootstrap/3.3.6/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/login.css">
+</head>
+<body>
+    <div id="loginDiv">
+        <div class="simpleLogo">
+            <img src="images/site/simpleLogo.png" alt="">
+        </div>
+
+        <img src="images/site/loginBackground.png" class="loginBackgroundImg" id="loginBackgroundImg">
+        <div class="loginSmallDiv" id="loginSamllDiv">
+            <div class="login_acount_text">账号登录</div>
+            <div class="loginInput">
+                <span class="loginInputIcon">
+                    <span class="glyphicon glyphicon-user"></span>
+                </span>
+                <input type="text" placeholder="手机/会员名/邮箱" name="name" id="name"> 
+            </div>
+
+            <div class="loginInput">
+                <span class="loginInputIcon">
+                    <span class="glyphicon glyphicon-lock"></span>
+                </span>
+                <input type="password" placeholder="密码" name="password" id="password"> 
+            </div>
+
+            <div style="margin-top:20px">
+                <button type="button" class="btn btn-block redButton" id="loginButton">登录</button>
+            </div>
+
+            <div>
+                <a href="#" class="forgetPassword">忘记密码</a> 
+                <a href="#" class="freeRegister">免费注册</a> 
+            </div>
+
+        </div>
+
+    </div>
+</body>
+</html>
