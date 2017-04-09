@@ -10,4 +10,4 @@
 ### 合并部分
 
 * [搜索栏和置顶导航](https://shenzekun.github.io/TianMaoWeb/merge_header_n_s.html)
-* [索栏和置顶导航和页脚](https://shenzekun.github.io/TianMaoWeb/merge_footer.html)
+* [搜索栏和置顶导航和页脚](https://shenzekun.github.io/TianMaoWeb/merge_header_footer.html)
