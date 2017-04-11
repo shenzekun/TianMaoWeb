@@ -132,5 +132,7 @@ div.eachCategory:hover {
 img.catear {
     position: absolute;
     height: 15px;
+    width: 40px;
     display: none;
+    z-index: -4;
 }
