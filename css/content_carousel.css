@@ -39,7 +39,7 @@ div.categoryWithCarousel div.rightMenu span img {
 div.carousel-of-product {
     height: 510px;
     width: 1024px;
-    margin: 0px auto;
+    margin: 0px  0px 0px auto;
 }
 
 img.carouselImage {
