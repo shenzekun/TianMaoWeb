@@ -6,7 +6,7 @@
 *  [搜索栏](https://shenzekun.github.io/TianMaoWeb/header_search.html)
 *  [页脚](https://shenzekun.github.io/TianMaoWeb/footer.html)
 *  [首页轮播](https://shenzekun.github.io/TianMaoWeb/content_carousel.html)
-
+* [产品列表](https://shenzekun.github.io/TianMaoWeb/product_list.html)
 
 ### 合并部分
 
