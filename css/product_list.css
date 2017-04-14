@@ -1,5 +1,5 @@
 div.productItem img{
-    width: 190px;
+    width: 200px;
     height: 190px;
 }
 
@@ -10,16 +10,16 @@ div.productItem img:hover{
 div.homepageCategoryProducts{
     background-color: #f5f5f5;
     padding: 50px 10px;
-    margin: 10px auto;
-    max-width: 1013px;
+    margin: 10px auto 0px auto;
+    max-width: 1200px;
 }
 
 div.productItem{
     border: 1px solid white;
-    width: 189px;
+    width: 200px;
     height: 290px;
     background-color: white;
-    margin: 8px 4px;
+    margin: 8px 18px;
     float: left;
 }
 
@@ -38,14 +38,14 @@ div.productItem span.productPrice{
 }
 
 div.eachHomepageCategoryProducts{
-    margin: 0px 0px 40px 0px;
+    margin: 0px 0px 30px 0px;
 }
 div.left-mark{
     display: inline-block;
     height: 20px;
     vertical-align: top;
     width: 5px;
-    background-color: #19c8a9;
+    background-color: #0aa6e8;
 }
 
 span.categoryTitle{

@@ -1,0 +1,50 @@
+div.categoryPageDiv{
+    max-width:1100px;
+    margin: 10px auto;
+}
+div.categorySortBar{
+    background-color: #faf9f9;
+    margin: 40px 20px 20px 20px;
+    padding:4px;
+}
+table.categorySortBarTable{
+    border-collapse: collapse;
+    display: inline-block;
+    vertical-align: middle;
+}
+table.categorySortBarTable span.glyphicon{
+    font-size:10px;
+}
+table.categorySortBarTable td.grayColumn{
+    background-color: #f1edec;
+}
+table.categorySortBarTable td{
+    height:18px;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    padding:3px;
+}
+table.categorySortBarTable td a:hover{
+    color: #c40000;
+}
+table.categorySortBarTable td a{
+    color: #806f66;
+    text-decoration: none;
+}
+table.categorySortBarTable input{
+    border-width: 0px;
+    height:15px;
+    width: 50px;
+}
+table.categorySortBarTable td.priceMiddleColumn{
+    width: 5px;
+    vertical-align: middle;
+    color: #ccc;
+}
+table.categorySortBarTable td:hover{
+    background-color: #f1edec;
+}
+body{
+    font-size:12px;
+    font-family:Arial;
+}
