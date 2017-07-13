@@ -1,4 +1,4 @@
-# TianMaoWeb(天猫前端仿站)
+# TianMaoWeb(天猫前端)
 
 ### 分离部分
 
